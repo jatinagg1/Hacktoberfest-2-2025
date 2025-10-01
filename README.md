@@ -1,5 +1,5 @@
-# HacktoberFest 2023 `OPEN FIRST` Pull Request
-![HacktoberFest 2023](https://github.com/karanjot786/Hacktoberfest2023/blob/main/static/images/logo.png)
+# HacktoberFest 2025 `OPEN FIRST` Pull Request
+![HacktoberFest 2025](https://raw.githubusercontent.com/Pradeepsingh61/DSA_Code/refs/heads/main/assets/HF2025-EmailHeader.png)
 
 
 
@@ -8,11 +8,11 @@
 
 🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the challenge and get a tree planted on your name showing your love towards mother Earth 🌍**
 
-📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st 🔥.**
+📢 **Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st 🔥.**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/badge/hacktoberfest-2025-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/githubgn" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
